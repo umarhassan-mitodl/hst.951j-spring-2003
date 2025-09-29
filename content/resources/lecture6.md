@@ -4,6 +4,8 @@ description: 'Bayesian Networks: Learning From Data'
 file: /courses/hst-951j-medical-decision-support-spring-2003/96e36fa1484c29f1cb8f2322162bf3b7_lecture6.pdf
 file_size: 406415
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

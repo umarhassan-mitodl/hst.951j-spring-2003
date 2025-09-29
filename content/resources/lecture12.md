@@ -4,6 +4,8 @@ description: Support Vector Machines
 file: /courses/hst-951j-medical-decision-support-spring-2003/50ff51d9bebe9dbba735b715c65824e5_lecture12.pdf
 file_size: 1158162
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

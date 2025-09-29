@@ -4,6 +4,8 @@ description: Homework - Fuzzy Rough Rules
 file: /courses/hst-951j-medical-decision-support-spring-2003/2a27e25822b3f17454714759c8a8e45b_homework2.pdf
 file_size: 105599
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
