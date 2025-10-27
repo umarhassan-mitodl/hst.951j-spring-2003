@@ -39,7 +39,6 @@
     "website": "hst-951j-medical-decision-support-spring-2003"
   },
   "course_title": "Medical Decision Support",
-  "hide_download": true,
   "course_description": "This course presents the main concepts of decision analysis, artificial intelligence and predictive model construction and evaluation in the specific context of medical applications. It emphasizes the advantages and disadvantages of using these methods in real-world systems and provides hands-on experience. Its technical focus is on decision support, knowledge-based systems (qualitative and quantitative), learning systems (including logistic regression, classification trees, neural networks, rough sets), and techniques to evaluate the performance of such systems. It reviews computer-based diagnosis, planning and monitoring of therapeutic interventions. It also discusses implemented medical applications and the software tools used in their construction. Students produce a final project using the machine learning methods learned in the course, based on actual clinical data.\n\nLecturers\n\nProf. Stephan Dreiseitl\n\nProf. Ju Jan Kim\n\nProf. Bill Long\n\nProf. Marco Ramoni\n\nProf. Fred Resnic\n\nProf. David Wypij",
   "department_numbers": [
     "HST",
@@ -51,7 +50,6 @@
     "content": "c7b58bb0-0aff-4861-3cd9-bbb05c0095a6",
     "website": "hst-951j-medical-decision-support-spring-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams",
