@@ -4,8 +4,6 @@ description: Midterm HST951 - 2002
 file: /courses/hst-951j-medical-decision-support-spring-2003/7f6c7b8c0314f29d9ac06f58cfe1c107_hst951Midterm02.pdf
 file_size: 131183
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

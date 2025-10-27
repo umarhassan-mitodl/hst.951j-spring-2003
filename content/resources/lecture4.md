@@ -4,8 +4,6 @@ description: 'Fuzzy and Rough Sets: Part II'
 file: /courses/hst-951j-medical-decision-support-spring-2003/cfe2e9d064c7f3bb17e3b195de9f1e44_lecture4.pdf
 file_size: 195676
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
